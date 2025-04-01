@@ -40,13 +40,14 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pratiktech957&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiktech957&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pratiktech957&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiktech957&layout=compact&langs_count=7&theme=radical" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratiktech957&theme=radical" alt="Pratiktech957's streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Pratiktech957&theme=radical" alt="GitHub Streak"/>
 </div>
+
 
 
 ## 👨‍💻 Connect With Me
