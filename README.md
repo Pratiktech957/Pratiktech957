@@ -45,9 +45,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratiktech957&layout=compact&langs_count=7&theme=radical" alt="Top Languages"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pratiktech957&theme=radical" alt="GitHub Streak" />
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pratiktech957&theme=radical)
+
 
 
 
