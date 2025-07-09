@@ -1,4 +1,4 @@
-# <div align="center">🚀 Welcome to Pratik's Digital Universe! 🚀</div>
+# <div align="center"> Welcome to Pratik's Digital Universe! </div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Pratik%20Mohanty&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
