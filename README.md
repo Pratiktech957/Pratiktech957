@@ -41,7 +41,17 @@ const pratik = {
 </div>
 
 ---
-
+graph TD
+    A[Pratik Mohanty] --> B[Full Stack Developer]
+    A --> C[AI Enthusiast]
+    B --> D[Frontend Technologies]
+    B --> E[Backend Technologies]
+    C --> F[Machine Learning]
+    C --> G[Deep Learning]
+    D --> H[React, Vue, Angular]
+    E --> I[Node.js, Django]
+    F --> J[Computer Vision]
+    G --> K[Natural Language Processing]
 ## 🛠️ Tech Arsenal
 
 <div align="center">
