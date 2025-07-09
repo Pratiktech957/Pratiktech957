@@ -139,14 +139,9 @@ const pratik = {
 
 ## 🔥 Featured Projects
 
-<div align="center">
-  <a href="https://github.com/Pratiktech957/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pratiktech957&repo=project1&theme=react&hide_border=true&bg_color=0D1117" />
-  </a>
-  <a href="https://github.com/Pratiktech957/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Pratiktech957&repo=project2&theme=react&hide_border=true&bg_color=0D1117" />
-  </a>
-</div>
+[![project1](https://github-readme-stats.vercel.app/api/pin/?username=Pratiktech957&repo=project1&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/Pratiktech957/project1)
+[![project2](https://github-readme-stats.vercel.app/api/pin/?username=Pratiktech957&repo=project2&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/Pratiktech957/project2)
+
 
 ---
 
